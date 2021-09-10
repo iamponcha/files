@@ -1,0 +1,39 @@
+			US				India
+free games		100K – 1M	Medium		100K – 1M	Low
+free games for pc	10K – 100K	Medium		100K – 1M	Low
+best free games		1K – 10K	Low		10K – 100K	Low
+
+
+
+/wp-content/plugins/digits/assets/js/login.js
+/wp-content/plugins/digits/assets/js/login.min.js
+/wp-content/plugins/digits/assets/js/main.js
+/wp-content/plugins/digits/assets/js/main.min.js
+
+/wp-content/plugins/digits/assets/js/datepicker.js
+/wp-content/plugins/digits/assets/js/datepicker.min.js
+/wp-content/plugins/digits/assets/js/jquery.nice-select.min.js
+
+
+
+/wp-content/plugins/digits/assets/js/scrollTo.js
+/wp-content/plugins/digits/assets/js/scrollTo.min.js
+/wp-content/plugins/digits/assets/js/select2.min.js
+/wp-content/plugins/digits/assets/js/sortable.min.js
+/wp-content/plugins/digits/assets/js/i18n/datepicker.en.js
+/wp-content/plugins/digits/assets/js/i18n/datepicker.en.min.js
+
+
+
+/wp-content/plugins/digits/admin/assets/js/dig_cco.js
+/wp-content/plugins/digits/admin/assets/js/dig_cco.min.js
+/wp-content/plugins/digits/admin/assets/js/settings.js
+/wp-content/plugins/digits/admin/assets/js/settings.min.js
+/wp-content/plugins/digits/admin/assets/js/slick.min.js
+/wp-content/plugins/digits/admin/assets/js/upload.js
+/wp-content/plugins/digits/admin/assets/js/upload.min.js
+/wp-content/plugins/digits/admin/assets/js/wp-color-picker-alpha.js
+/wp-content/plugins/digits/admin/assets/js/wp-color-picker-alpha.min.js
+
+/wp-content/plugins/digits/update/js/debug-bar.js
+/wp-content/plugins/digits/update/js/debug-bar.min.js

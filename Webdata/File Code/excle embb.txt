@@ -1,0 +1,28 @@
+<iframe width="443" height="570" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=31E12254645B6B5C%212422&authkey=%21AJaDNZX1YFLZzGc&em=2&wdAllowInteractivity=False&AllowTyping=True&ActiveCell='CHEMICAL'!Y1&Item=ch.dat&wdInConfigurator=True"></iframe>
+
+
+
+<iframe id="excel-iframe" scrolling="no" src="YOUR_EXCEL_EMBED_URL" width="600" height="500" frameborder="0"></iframe>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>
+   $(document).ready(function() {
+      $("#excel-iframe").load(function() {
+         $(this).contents().find("#WebApplicationFrame").css("height", "550px");
+      });
+   });
+</script>
+
+
+
+
+<iframe id="excel-iframe" scrolling="no" src="https://onedrive.live.com/embed?resid=31E12254645B6B5C%212422&authkey=%21AJaDNZX1YFLZzGc&em=2&wdAllowInteractivity=False&AllowTyping=True&ActiveCell='CHEMICAL'!Z1&Item=met.data&wdHideGridlines=True&wdInConfigurator=True" width="664" height="720"></iframe>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>
+   $(document).ready(function() {
+      $("#excel-iframe").load(function() {
+         $(this).contents().find("#WebApplicationFrame").css("height", "550px");
+      });
+   });
+</script>

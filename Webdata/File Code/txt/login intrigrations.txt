@@ -1,0 +1,16 @@
+
+**(includes/header-code.php)
+
+
+
+
+
+<div>
+									 <a class="digits-login-modal" href="?login=true" type="1"><span href="?login=true" onclick="jQuery('this').digits_login_modal(jQuery(this));return false;" attr-disclick="1" class="digits-login-modal" type="1"><span>LOGIN    </span></span></a> 
+									
+					
+						  <a class="digits-login-modal" href="?login=true&amp;type=register" type="2"><span href="?login=true&amp;type=register" onclick="jQuery('this').digits_login_modal(jQuery(this));return false;" attr-disclick="1" class="digits-login-modal" type="2"><span>SIGN UP</span></span></a>  
+								
+					
+								</div> 
+					

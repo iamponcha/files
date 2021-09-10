@@ -1,0 +1,32 @@
+.digloginpage::before {
+content: url (https://i0.wp.com/galpokar.com/property/2021/02/otp.jpg);
+}
+
+
+.digits_login::before {
+content: url (https://i0.wp.com/galpokar.com/property/2021/02/otp.jpg);
+}
+
+
+.digits_login::before {
+content: "Enter Mobile Number";
+font-size: 18px;
+font-weight: 600;
+}
+
+
+
+for home color login
+
+.digits-login-modal
+{
+  color: white;
+ }
+
+
+<meta name="title" content="Galpokar">
+<meta name="description" content="Crazy to do Anything. Especially we focus to serve the Latest news on Gadgets, gaming, smartphone, Business, and Technology. Also, We try to solve the user's daily life tech problems.">
+<meta name="keywords" content="Technology, Windows,Business, gaming, Gadgets, pc gamings, mobile gaming, Galpokar, Golpokar, গল্পকার, question, answer, physical properties, material specification, ">
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">

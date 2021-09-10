@@ -1,0 +1,38 @@
+amberroy160@gmail.com
+
+
+Site address
+http://35.221.202.229/ 
+Admin URL
+http://35.221.202.229/wp-admin 
+WordPress MySQL user
+wordpress
+WordPress MySQL password (Temporary)
+VvH3mi6P
+MySQL root user
+root
+MySQL root password (Temporary)
+PL52f7t5689eLr
+WordPress Admin user
+ponchasamanta1@gmail.com
+WordPress Admin password (Temporary)
+MQ4Lwyr*
+Instance
+galpokar1-vm
+Instance zone
+asia-east1-a
+Instance machine type
+f1-micro
+Software
+Operating System
+Debian (9.13)
+Software
+Apache (2.4.25)
+Google-Fluentd (1.7.1)
+MySQL-Client (5.7.31)
+MySQL-Server (5.7.31)
+PHP (7.4.9)
+Stackdriver-Agent (6.0.5)
+WP-CLI (2.4.0)
+WordPress (5.5)
+phpMyAdmin (5.0.2)

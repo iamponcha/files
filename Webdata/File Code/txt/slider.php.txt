@@ -1,0 +1,3 @@
+panel-pop-content
+
+(includes/slider.php)

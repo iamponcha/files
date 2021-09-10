@@ -1,0 +1,22 @@
+Site address
+http://34.75.199.101/ 
+Admin URL
+http://34.75.199.101/wp-admin 
+WordPress MySQL user
+wordpress
+WordPress MySQL password (Temporary)
+v25ioKZ1
+MySQL root user
+root
+MySQL root password (Temporary)
+DqGkvs3kqWSanS
+WordPress Admin user
+ponchasamanta1@gmail.com
+WordPress Admin password (Temporary)
+yKc1RY.H
+Instance
+galpokar-vm
+Instance zone
+us-east1-c
+Instance machine type
+f1-micro

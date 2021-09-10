@@ -1,0 +1,9 @@
+#Four pages to disavow
+http://asptherault.free.fr/ForumDNF/forum.php?f=5&view=4&pg=90
+http://cinecultes.free.fr/pages/forum/forum.php?f=1&view=11&pg=408
+http://cinecultes.free.fr/pages/forum/forum.php?f=1&view=11&pg=408&design=b
+http://cinecultes.free.fr/pages/forum/forum.php?f=1&view=11&pg=408&design=b&design=w
+
+#Two domains to disavow
+domain:asptherault.free.fr
+domain:cinecultes.free.fr

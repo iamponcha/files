@@ -1,0 +1,6 @@
+<center>
+<a href="#"><img src="https://i0.wp.com/galpokar.com/wp-content/uploads/2021/04/Samantaco.png" alt="Samanta & Co." width="93.75" height="42.94"></a>
+<a href="https://galpokar.com/"><img src="https://i0.wp.com/galpokar.com/%e0%a6%97%e0%a6%b2%e0%a7%8d%e0%a6%aa%e0%a6%95%e0%a6%be%e0%a6%b0/" alt="Galpokar" width="118" height="42.5"></a>
+<a href="https://www.dealskaro.in/"><img src=" https://i2.wp.com/www.dealskaro.in/wp-content/uploads/2021/01/dealskaro-logo.png" alt="Dealskaro" width="180" height="42.5"></a>
+<a href="#"><img src="https://i0.wp.com/galpokar.com/wp-content/uploads/2021/03/bengal.png" alt="Made in india" width="182.125" height="42.5"></a>
+	</center>

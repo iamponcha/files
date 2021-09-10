@@ -1,0 +1,22 @@
+Site address
+http://34.127.65.238/ 
+Admin URL
+http://34.127.65.238/wp-admin 
+WordPress MySQL user
+wordpress
+WordPress MySQL password (Temporary)
+W8sFA5zd
+MySQL root user
+root
+MySQL root password (Temporary)
+ACMz3ANLdaGtas
+WordPress Admin user
+ponchasamanta1@gmail.com
+WordPress Admin password (Temporary)
+EBF+7VfN
+Instance
+wordpress-1-vm
+Instance zone
+us-west1-b
+Instance machine type
+e2-medium

@@ -1,0 +1,11 @@
+<center> <div id="download" class="wp-block-buttons is-content-justification-center">
+<div class="wp-block-button"><a class="wp-block-button__link has-white-color has-text-color has-background" href="https://drive.google.com/uc?id=1E9eHhbuPf3OHLz2p4YWY4kBsrOI9Pcro&amp;export=download" style="border-radius:2px;background:linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 92%)" target="_blank" rel="noreferrer noopener">Download now</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-white-color has-cool-to-warm-spectrum-gradient-background has-text-color has-background" href="https://download1591.mediafire.com/rhvzehtxfxpg/meol2bonj5w79bf/Pubg1.4_90Fps.zip" style="border-radius:2px" target="_blank" rel="noreferrer noopener">Alternative</a></div>
+</div></center>
+
+
+BGMI 90 fps
+<center> <div id="download" class="wp-block-buttons is-content-justification-center">
+<div class="wp-block-button"><a class="wp-block-button__link has-white-color has-text-color has-background" href="https://drive.google.com/uc?id=1I9RNIrvTHmbkOpw88UAHQTMTI_XrDn1r&export=download" style="border-radius:2px;background:linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 92%)" target="_blank" rel="noreferrer noopener">Download now</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-white-color has-cool-to-warm-spectrum-gradient-background has-text-color has-background" href="https://download1491.mediafire.com/pu6qz69508ug/vjn4ayybcbool9c/90+fps+config+file+only+for+BGMI1.4.1+.zip" style="border-radius:2px" target="_blank" rel="noreferrer noopener">Alternative</a></div>
+</div></center>
